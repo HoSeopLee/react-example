@@ -8,7 +8,7 @@ const {  Content } = Layout;
 const AppPresenter = (props) => {
 
   return (
-    <Layout style={{ width: '100%', height: '100%', overflow: 'hidden' }}>
+    <Layout style={{ width: '100%', height: '100%',backgroundColor:'#fff' ,overflow: 'hidden' }}>
       <Menu {...props} />
       <Layout
         className="site-layout"
