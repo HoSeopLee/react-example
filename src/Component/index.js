@@ -1,0 +1,1 @@
+export { default as LoadingWrap } from './LoadingWrap';
